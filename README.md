@@ -1,16 +1,23 @@
-### Hi there 👋
+## Education
 
-<!--
-**Lroun/Lroun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```2023 - ```
+**ph.D. Software Convergence,**
+Kyunghee University
 
-Here are some ideas to get you started:
+```2019 - 2022```
+**B.S. Software Convergence, Game Contents Track,**
+Kyunghee University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```2016 - 2018```
+**Sunrin Internet High School**
+
+## Award ans Honors
+```2022 KHU SW Festival``` 1st prize, Kyunghee University
+```2022 KHU khuthon``` 1st prize, Kyunghee University
+```2022 KHU Realistic Media Contest``` 2st prize, Kyunghee University
+```Koera Software Congress 2022 Undergraduate/Junior Paper Contest``` Excellence prize, Korean Institute of Information Scientists and Engineers (한국정보과학회)
+
+## Extracurricular Activities
+```Ludens```  2021-2022, Club President & Formed, Game & Realistic Contents Making Club, Kyunghee University
+```KhuKey```  2019-2022, Club Officers, Home Repair Volunteer Club, Kyunghee University & Hope Bridge Korea Disaster Relief Association
+
