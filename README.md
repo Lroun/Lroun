@@ -14,7 +14,7 @@ Kyunghee University
 ## Publications
 Han, D., **Lee, R.**, Kim, K., & Kang, H. (2023). VR-HandNet: A Visually and Physically Plausible Hand Manipulation System in Virtual Reality. _IEEE Transactions on Visualization and Computer Graphics (TVCG)._
 
-## Award ans Honors
+## Awards
 ```2022 KHU SW Festival``` 🥇 1st prize, Kyunghee University 
 
 ```2022 KHU khuthon``` 🥇 1st prize, Kyunghee University 
