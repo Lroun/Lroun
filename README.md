@@ -12,10 +12,10 @@ Kyunghee University
 **Sunrin Internet High School**
 
 ## Award ans Honors
-```2022 KHU SW Festival``` 1st prize, Kyunghee University
-```2022 KHU khuthon``` 1st prize, Kyunghee University
-```2022 KHU Realistic Media Contest``` 2st prize, Kyunghee University
-```Koera Software Congress 2022 Undergraduate/Junior Paper Contest``` Excellence prize, Korean Institute of Information Scientists and Engineers (한국정보과학회)
+```2022 KHU SW Festival``` 1st prize, Kyunghee University 
+```2022 KHU khuthon``` 1st prize, Kyunghee University 
+```2022 KHU Realistic Media Contest``` 2st prize, Kyunghee University 
+```Koera Software Congress 2022 Undergraduate/Junior Paper Contest``` Excellence prize, Korean Institute of Information Scientists and Engineers (한국정보과학회) 
 
 ## Extracurricular Activities
 ```Ludens```  2021-2022, Club President & Formed, Game & Realistic Contents Making Club, Kyunghee University
