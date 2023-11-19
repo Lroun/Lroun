@@ -1,11 +1,11 @@
 ## Education
 
 ```2023 - ```
-**ph.D. Software Convergence,**
+**PhD student in Software Convergence,**
 Kyunghee University
 
 ```2019 - 2022```
-**B.S. Software Convergence, Game Contents Track,**
+**B.S in Software Convergence, Game Contents Track,**
 Kyunghee University
 
 ```2016 - 2018```
